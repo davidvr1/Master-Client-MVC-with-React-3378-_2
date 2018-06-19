@@ -1,4 +1,4 @@
-# How to deploy an node.js app to heroku
+# How to deploy an node.js app to Heroku
 
 
 * craete a new account in heroku: 
